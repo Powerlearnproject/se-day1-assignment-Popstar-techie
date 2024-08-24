@@ -9,7 +9,6 @@ Software is a discipline that is focused on the development of high-quality soft
 Software Engineering plays a significant role in the technology industry as it enables software and system applications to be created. These applications in turn assist in various aspects of our life which range from communication to healthcare, entertainment and even education.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
 Development of Programming Languages: This is a foundational milestone in the history of software engineering. It represents the transition from directly instructing machines using binary code to human-readable languages to achieve the same result.
 
 The establishment of software engineering as a discipline in the 1960s: The 1960s marked a crucial moment in the evolution of computing as the field transitioned from a mere collection of programming practices to a discipline called: Software Engineering.
